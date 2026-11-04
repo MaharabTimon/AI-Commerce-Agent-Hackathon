@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+tests/
+__pycache__/
+*.pyc
+demo_products.json
+products.db
+bot_state.json
+admin_ids.json
+products_backup_*.json

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Demo Elegant Wedding Dress",
+    "brand": "DemoHouse",
+    "category": "Dresses",
+    "price_bdt": 2800,
+    "price_formatted": "BDT 2,800",
+    "stock": 8,
+    "in_stock": true,
+    "specifications": "Elegant, not flashy. Sizes S M L. Black and maroon."
+  },
+  {
+    "id": 2,
+    "name": "Demo Classic Black Dress",
+    "brand": "DemoHouse",
+    "category": "Dresses",
+    "price_bdt": 2300,
+    "price_formatted": "BDT 2,300",
+    "stock": 4,
+    "in_stock": true,
+    "specifications": "Black, traditional cut. Sizes M L XL.",
+    "updated_at": "2026-11-05 00:11:53"
+  },
+  {
+    "id": 3,
+    "name": "Demo Red Saree Premium",
+    "brand": "DemoHouse",
+    "category": "Sarees",
+    "price_bdt": 4500,
+    "price_formatted": "BDT 4,500",
+    "stock": 2,
+    "in_stock": true,
+    "specifications": "Red jamdani saree with blouse piece."
+  },
+  {
+    "id": 4,
+    "name": "Demo Pearl Earrings",
+    "brand": "DemoHouse",
+    "category": "Accessories",
+    "price_bdt": 400,
+    "price_formatted": "BDT 400",
+    "stock": 20,
+    "in_stock": true,
+    "specifications": "Pearl drop earrings, gift box included."
+  },
+  {
+    "id": 5,
+    "name": "Demo Hidden Sample",
+    "brand": "DemoHouse",
+    "category": "Dresses",
+    "price_bdt": 999,
+    "price_formatted": "BDT 999",
+    "stock": 9,
+    "in_stock": true,
+    "status": "HIDDEN",
+    "specifications": "Must never be shown to customers."
+  }
+]

@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+products.db
+bot_state.json
+admin_ids.json
+products_backup_*.json
+.vercel/

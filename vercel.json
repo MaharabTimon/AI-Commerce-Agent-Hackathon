@@ -1,0 +1,23 @@
+{
+  "functions": {
+    "api/*.py": { "maxDuration": 60 }
+  },
+  "rewrites": [
+    {
+      "source": "/webhook",
+      "destination": "/api/webhook.py"
+    },
+    {
+      "source": "/telegram-webhook",
+      "destination": "/api/telegram.py"
+    },
+    {
+      "source": "/setup-telegram",
+      "destination": "/api/setup.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/api/index.py?__path__=/$1"
+    }
+  ]
+}
