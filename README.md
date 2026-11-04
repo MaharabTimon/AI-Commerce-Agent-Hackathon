@@ -14,6 +14,8 @@ Customers chat in **English · Bangla · Banglish** → the agent understands, s
 
 </div>
 
+<p align="center"><img src="assets/demo.gif" width="720" alt="AI Commerce Agent — live demo"/></p>
+
 ---
 
 ## 🎬 The 60-Second Demo
