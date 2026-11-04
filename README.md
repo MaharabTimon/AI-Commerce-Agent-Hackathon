@@ -29,19 +29,9 @@ Customers chat in **English · Bangla · Banglish** → the agent understands, s
 | 🧾 *"I would like to place an order"* → name · phone · address | **Review summary first** — no order exists until the customer says yes |
 | ✅ *"yes"* | Order confirmed on Messenger — and the seller sees it on Telegram |
 
----|---|
-| 📲 **Seller opens Telegram → imports the dataset** | Menu, one file upload — any format, catalog live in seconds |
-| 💬 *"do you have saree?"* | Real sarees, real prices — `4,200৳`, never invented |
-| 📸 *"Banarasi saree ta dekha jabe?"* | The **actual product photo** arrives in chat |
-| 🧠 *"can you show a picture?"* | It knows which product you mean — even on a fresh server |
-| 🧾 Order → review summary → **confirm** | No order exists until the customer says yes |
-| 📲 Seller's Telegram lights up | Order details, sales, hot leads, one tap away |
-
 ---
 
 ## ⚔️ Why It's Different
-
-<div align="center">
 
 | 🤖 Standard Messenger Bot | 🚀 This Agent |
 |---|---|
@@ -50,8 +40,6 @@ Customers chat in **English · Bangla · Banglish** → the agent understands, s
 | Stateless, forgets everything | 5-turn context + product memory across servers, **wiped clean when an order completes** |
 | Dies silently when the API does | Catalog-grounded fallback replies + **instant Telegram alert** to the seller |
 | Needs a dashboard & a dev team | Seller runs everything from **Telegram** |
-
-</div>
 
 ---
 
