@@ -20,6 +20,7 @@ Customers chat in **English · Bangla · Banglish** → the agent understands, s
 
 | Step | What happens |
 |---|---|
+| 📲 **Seller opens Telegram → imports the dataset** | Menu, one file upload — any format, catalog live in seconds |
 | 💬 *"do you have saree?"* | Real sarees, real prices — `4,200৳`, never invented |
 | 📸 *"Banarasi saree ta dekha jabe?"* | The **actual product photo** arrives in chat |
 | 🧠 *"can you show a picture?"* | It knows which product you mean — even on a fresh server |
