@@ -12,7 +12,6 @@ Customers chat in **English Â· Bangla Â· Banglish** â†’ the agent under
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 [![Tests](https://img.shields.io/badge/Tests-150%2B_passing-2EA44F?style=for-the-badge)](#-tests)
 
-### ðŸŒ [**Try it live â†’ facebook-messenger-ai-bot.vercel.app**](https://facebook-messenger-ai-bot.vercel.app)
 
 </div>
 
@@ -127,7 +126,7 @@ python tests/test_hackathon.py
 
 **Talk â†’ Understand â†’ Search â†’ Reason â†’ Act â†’ Remember â†’ Analyze â†’ Report**
 
-[ðŸŒ Live Demo](https://facebook-messenger-ai-bot.vercel.app) Â· MIT License
+MIT License
 
 </div>
 
