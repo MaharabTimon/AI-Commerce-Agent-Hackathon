@@ -22,6 +22,14 @@ Customers chat in **English · Bangla · Banglish** → the agent understands, s
 
 | Step | What happens |
 |---|---|
+| 📲 **Seller opens Telegram → imports the dataset** | Control menu, one Excel file upload — catalog live in seconds |
+| 📦 **Seller fixes stock** | Adds stock to an out-of-stock product right from Telegram |
+| 💬 *"Hi, do you have dell laptop?"* | Real Dell laptops, real prices — `193,680৳`, never invented |
+| 📸 *"can you please show me a picture of dell laptop pro"* | The **actual product photo** arrives in chat |
+| 🧾 *"I would like to place an order"* → name · phone · address | **Review summary first** — no order exists until the customer says yes |
+| ✅ *"yes"* | Order confirmed on Messenger — and the seller sees it on Telegram |
+
+---|---|
 | 📲 **Seller opens Telegram → imports the dataset** | Menu, one file upload — any format, catalog live in seconds |
 | 💬 *"do you have saree?"* | Real sarees, real prices — `4,200৳`, never invented |
 | 📸 *"Banarasi saree ta dekha jabe?"* | The **actual product photo** arrives in chat |
